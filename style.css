@@ -156,7 +156,6 @@ button {
     flex-wrap: wrap;
     justify-content: center;
     gap: 50px;
-
 }
 
 /* information image placeholder */
@@ -165,6 +164,10 @@ button {
     border-radius: 0.5cqw;
     width: 150px;
     height: 150px;
+}
+
+.section-two p {
+    text-align: center;
 }
 
 /* styling for section three starts here */
